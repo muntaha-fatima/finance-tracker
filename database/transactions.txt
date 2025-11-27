@@ -1,0 +1,5 @@
+date,type,category,amount,description
+2025-11-24,Expense,Food,500000,burger
+2025-11-24,Income,Salary,2500000,webdeveloper
+2025-11-24,Income,Freelance,5000000,website
+2025-11-24,Expense,Entertainment,200000,cienema
